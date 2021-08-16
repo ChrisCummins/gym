@@ -407,3 +407,9 @@ Learn more here: https://github.com/modanesh/anomalous_rl_envs
 ### stable-retro
 
 Fork of gym-retro with additional games, states, scenarios, etc. Open to PRs of additional games, features and plateforms since gym-retro is in maintenance mode.
+
+### CompilerGym: gym environments for compiler optimization tasks
+
+Reinforcement learning environments for compiler optimization tasks, such as LLVM phase ordering, GCC flag tuning, and CUDA loop nest code generation. The goal is to guide the optimization decisions of a compiler to produce the best compiled binary.
+
+Learn more here: https://github.com/facebookresearch/CompilerGym
